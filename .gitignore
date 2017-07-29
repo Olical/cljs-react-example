@@ -5,7 +5,8 @@ pom.xml
 pom.xml.asc
 *.jar
 *.class
+*.log
 /.lein-*
 /.nrepl-port
-.hgignore
-.hg/
+/out
+/node_modules
