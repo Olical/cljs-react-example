@@ -10,6 +10,4 @@
                         :compiler {:output-to "out/main.js"
                                    :output-dir "out"
                                    :optimizations :none
-                                   :main "cljs-react.core"
-                                   :npm-deps {:react "15.6.1"
-                                              :react-dom "15.6.1"}}}]})
+                                   :main "cljs-react.core"}}]})
