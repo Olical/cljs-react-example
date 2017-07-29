@@ -1,2 +1,0 @@
-(ns cljs-react.core)
-
