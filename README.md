@@ -10,6 +10,6 @@ Simple example of using React from ClojureScript directly. Using the new `node_m
 
 ## To do
 
- * [ ] Get spacemacs hooked in to the figwheel REPL.
+ * [x] Get spacemacs hooked in to the figwheel REPL. ([solution](https://github.com/bhauman/lein-figwheel/wiki/Using-the-Figwheel-REPL-within-NRepl))
  * [ ] Remove dependency on manually running yarn/npm if possible.
  * [ ] Configure for production and development as if this was a real project.
